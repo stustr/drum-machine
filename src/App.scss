@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  background: #155263;
+  color: whitesmoke;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 100vw;
+  
+  #display {
+    margin: 30px;
+  }
+  
+  .drum-pads {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #ff6f3c;
+  }
+  
+  .drum-pad {
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: 1000;
+  }
+  
+  h1 {
+    font-weight: 600;
+  }
+}
