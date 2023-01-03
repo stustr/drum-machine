@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/markdown-previewer/static/css/main.af36e0e8.css",
-    "main.js": "/markdown-previewer/static/js/main.1e74b3e3.js",
-    "static/js/787.fe408396.chunk.js": "/markdown-previewer/static/js/787.fe408396.chunk.js",
-    "index.html": "/markdown-previewer/index.html",
-    "main.af36e0e8.css.map": "/markdown-previewer/static/css/main.af36e0e8.css.map",
-    "main.1e74b3e3.js.map": "/markdown-previewer/static/js/main.1e74b3e3.js.map",
-    "787.fe408396.chunk.js.map": "/markdown-previewer/static/js/787.fe408396.chunk.js.map"
+    "main.css": "/drum-machine/static/css/main.af36e0e8.css",
+    "main.js": "/drum-machine/static/js/main.f1b8ef65.js",
+    "static/js/787.fe408396.chunk.js": "/drum-machine/static/js/787.fe408396.chunk.js",
+    "index.html": "/drum-machine/index.html",
+    "main.af36e0e8.css.map": "/drum-machine/static/css/main.af36e0e8.css.map",
+    "main.f1b8ef65.js.map": "/drum-machine/static/js/main.f1b8ef65.js.map",
+    "787.fe408396.chunk.js.map": "/drum-machine/static/js/787.fe408396.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af36e0e8.css",
-    "static/js/main.1e74b3e3.js"
+    "static/js/main.f1b8ef65.js"
   ]
 }
