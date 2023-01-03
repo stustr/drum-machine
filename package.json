@@ -1,7 +1,7 @@
 {
   "name": "drum-machine-r",
   "version": "0.1.0",
-  "homepage": "https://stustr.github.io/markdown-previewer",
+  "homepage": "https://stustr.github.io/drum-machine",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
